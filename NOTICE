@@ -1,0 +1,6 @@
+scrub-my-data
+Copyright 2026 Matt Iklodi
+
+This skill is a beginner-friendly front door to remove-your-data by Nick Newsom (@k7cfo),
+licensed under Apache-2.0: https://github.com/k7cfo/remove-your-data
+No code from that project is copied here; the skill tells the agent to use the original.
